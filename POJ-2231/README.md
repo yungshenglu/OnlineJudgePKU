@@ -15,7 +15,7 @@ FJ's N cows (1 <= N <= 10,000) all graze at various locations on a long one-dime
 ## Input
 
 * Line 1: N 
-* Lines 2 .. N + 1: The location of each cow (in the range 0 .. 1,000,000,000).
+* Lines 2 .. (N + 1): The location of each cow (in the range 0 .. 1,000,000,000).
 
 ---
 ## Output

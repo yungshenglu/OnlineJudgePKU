@@ -17,7 +17,7 @@ Given that cow i expects to get Ai votes (1 ≤ Ai ≤ 1,000,000,000) in the fir
 ## Input
 
 * Line 1: Two space-separated integers: N and K
-* Lines 2 .. N + 1: Line i + 1 contains two space-separated integers: Ai and Bi
+* Lines 2 .. (N + 1): Line (i + 1) contains two space-separated integers: Ai and Bi
 
 ---
 ## Output
