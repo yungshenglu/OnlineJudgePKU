@@ -14,7 +14,7 @@ The election consists of two rounds. In the first round, the K cows (1 ≤ K ≤
 Given that cow i expects to get Ai votes (1 ≤ Ai ≤ 1,000,000,000) in the first round and Bi votes (1 ≤ Bi ≤ 1,000,000,000) in the second round (if he or she makes it), determine which cow is expected to win the election. Happily for you, no vote count appears twice in the Ai list; likewise, no vote count appears twice in the Bi list.
 
 ---
-### Input
+## Input
 
 * Line 1: Two space-separated integers: N and K
 * Lines 2 .. N + 1: Line i + 1 contains two space-separated integers: Ai and Bi
