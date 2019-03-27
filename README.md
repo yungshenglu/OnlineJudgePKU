@@ -1,4 +1,4 @@
-# Online Judge PKU (POJ)
+# PKU Online Judge (POJ)
 
 ![](res/pku.gif)
 
